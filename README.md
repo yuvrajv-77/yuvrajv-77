@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=570&lines=Hello%2C+I+am+Yuvraj+Verma!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-I’m a Frontend Developer<br>
+👋🏼Hi, I’m a Frontend Developer<br>
 👯 I’m looking to collaborate on Web development Projects<br>
 
 
